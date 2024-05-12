@@ -1,7 +1,7 @@
 window.weatherWidgetConfig =  window.weatherWidgetConfig || [];
    window.weatherWidgetConfig.push({
        selector:".weatherWidget",
-       apiKey:"J7LM8UHF9J6HJPF8VZH3HD9MS&contentType=json", //Sign up for your personal key
+       apiKey:"855H5UBA2T5FMG24KDPZGBMGS&contentType=json", //Sign up for your personal key
        location:"DHAKA, BANGLADESH", //Enter an address
        unitGroup:"metric", //"us" or "metric"
        forecastDays:5, //how many days forecast to show
